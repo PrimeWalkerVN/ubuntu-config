@@ -1,0 +1,7 @@
+gpaste
+ulauncher
+fuzzy-search
+ibus-bamboo
+terminator
+tweak
+gnome-extensions
